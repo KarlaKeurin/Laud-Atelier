@@ -18,6 +18,4 @@ Projeto desenvolvido utilizando Django para o backend e React.js para o frontend
   - Checklist de Produção: Lista interativa de tarefas para cada peça ("Em Corte", "Acabamentos", "Feito").
 - Página de Admin:
   - Cadastro, edição e exclusão de perfis de funcionários;
-  - Dashboard com dados de vendas, pedidos em andamento e histórico de clientes;
-  - Controle de Estoque: Monitoramento de materiais e tecidos disponíveis no atelier;
-  - Relatórios Automáticos: Geração de relatórios semanais ou mensais de vendas e produção.
+  - Dashboard com dados de vendas, pedidos em andamento e histórico de clientes.
