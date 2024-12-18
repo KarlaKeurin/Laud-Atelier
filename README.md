@@ -9,7 +9,7 @@ Projeto desenvolvido utilizando Django para o backend e React.js para o frontend
 - Galeria de Fotos:
   - Divisão por clientes ou categorias (vestidos de noiva, vestidos de festa, roupas sob medida);
   - Página de detalhes com informações sobre cada peça (descrição, fotos, tipo de tecidos).
-- Sobre o Ateliê: Apresentação da história do ateliê, missão, visão, valores e equipe;
+- Sobre o Atelier: Apresentação da história do atelier, missão, visão, valores e equipe;
 - Contato:
   - Formulário para envio de mensagens, agendamento de consultas e pedidos de orçamento;
   - Localização da loja com mapa interativo.
@@ -19,5 +19,5 @@ Projeto desenvolvido utilizando Django para o backend e React.js para o frontend
 - Página de Admin:
   - Cadastro, edição e exclusão de perfis de funcionários;
   - Dashboard com dados de vendas, pedidos em andamento e histórico de clientes;
-  - Controle de Estoque: Monitoramento de materiais e tecidos disponíveis no ateliê;
+  - Controle de Estoque: Monitoramento de materiais e tecidos disponíveis no atelier;
   - Relatórios Automáticos: Geração de relatórios semanais ou mensais de vendas e produção.
