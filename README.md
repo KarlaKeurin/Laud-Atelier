@@ -1,8 +1,8 @@
-# Atelier LAUD
+# LAUD Atelier
 
 ### Em andamento...
 
-Projeto desenvolvido em Django e React.js.
+Projeto desenvolvido utilizando Django para o backend e React.js para o frontend.
 
 ### Funcionalidades:
 - Home: Página inicial com uma apresentação do atelier e destaques das criações mais recentes;
