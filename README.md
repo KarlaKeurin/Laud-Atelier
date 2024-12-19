@@ -19,3 +19,6 @@ Projeto desenvolvido utilizando Django para o backend e React.js para o frontend
 - Página de Admin:
   - Cadastro, edição e exclusão de perfis de funcionários;
   - Dashboard com dados de vendas, pedidos em andamento e histórico de clientes.
+ 
+### Link do protótipo no Figma
+https://www.figma.com/design/ay2gP6QkaXkJy7dOI6mLV5/Untitled?node-id=106-2&t=TUxwKiHAGOL9rJjV-1
