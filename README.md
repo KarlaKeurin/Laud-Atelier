@@ -2,8 +2,6 @@
 
 ### Em andamento...
 
-Projeto desenvolvido utilizando Django para o backend e React.js para o frontend.
-
 ### Funcionalidades:
 - Home: Página inicial com uma apresentação do atelier e destaques das criações mais recentes;
 - Galeria de Fotos:
